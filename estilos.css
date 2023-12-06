@@ -1,0 +1,340 @@
+body,* {
+	line-height:130%;
+	font-size: 15.5px;
+	font-family: georgia;
+ }
+
+ .A {
+ 	padding-top: 17px !important;
+ }
+
+ /*colores*/
+
+ body {
+ 	background-color: #FFD294;
+ 	color:#000000;
+ }
+
+ .glyphicon {
+ 	font-size: 20px;
+ 	top: 5px;
+ }
+
+ .navbar-default .navbar-toggle .icon-bar {
+    background-color: #000000;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #A15600;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+    background-color: #C46900;
+}
+
+.navbar-toggle {
+	    background-color: #C46900;
+}
+/*
+.navbar-nav {
+	background-color: #C46900;
+}
+*/
+.nav > .navbar-nav {
+	background-color: #C46900 !important;
+
+}
+.m {
+	padding-right: 0px;
+	padding-left: 0px;
+}
+
+.n {
+	padding-left:23px;
+}
+
+.container-fluid {
+	background-color:#DF8200;
+}
+
+.navbar-default .navbar-nav > .open > a, .navbar-default .navbar-nav > .open > a:hover, .navbar-default .navbar-nav > .open > a:focus {
+    color: #FFFFFF;
+    background-color: #FFBC5E;
+}
+
+.navbar {
+    position: relative;
+    min-height: 50px;
+    margin-bottom: 0px;
+    border: none;
+}
+
+.c {
+	color:black !important;
+}
+
+#contacto, #pie {
+	background-color: #000000;
+	color: #828282;
+}
+
+#principal, #masvendido, #guitarra, .opciones, .otro {
+	background-color: #FFFFFF;
+}
+
+.h {
+	color: #FFF8ED;
+}
+
+.card {
+	background-color: #FFFFFF;
+	width: 25rem !important;
+	border: solid 1px #828282;
+}
+
+.carta {
+	padding-bottom: 20px;
+}
+
+.btn {
+	margin-bottom: 13px;
+}
+
+.boton {
+	background-color: #126782;
+	border-color: #126782;
+}
+
+
+/**/
+.navbar-nav {
+	float: right;
+}
+
+#menu {
+	padding-bottom: 0px;
+}
+
+h1 {
+	height:180% !important;
+}
+
+h2 {
+	height: 140% !important;
+}
+
+h3 {
+	height: 120% !important;
+}
+
+h4 {height: 100% !important;
+	margin-bottom: 0px;
+}
+
+h5 {
+	height: 50% !important;
+}
+
+.T {
+	text-align: center;
+}
+
+.imagen {
+	height: 242px;
+}
+
+.h3 {
+	text-align: center;
+	padding-bottom: 20px;
+	padding-bottom: 30px;
+}
+
+#principal {
+	padding-bottom: 30px;
+	padding-top: 10px;
+}
+
+#masvendido {
+	padding-top: 10px;
+	padding-bottom: 50px;
+	margin-top: 0px !important;
+}
+.div {
+	padding-left: 55px;
+    padding-right: 55px;
+    padding-bottom: 17px;
+}
+
+.division {
+	width: 100%;
+    border-top: 2px solid #FFCB90;
+}
+}
+
+#promo {
+	padding-bottom: 20px;
+	padding-top: 50px;
+
+}
+
+.cuerpo {
+	text-align: center;
+}
+
+.IM {
+	width: 2500px;
+}
+
+.espacio {
+	padding-left: 25px;
+}
+
+.espacio1 {
+	padding-left: 25px;
+}
+
+#contacto {
+	padding-top: 100px;
+}
+
+.h {
+	border-top:1px;
+	border-top-style: solid;
+	padding-top:15px;
+}
+
+.en {
+	margin:15px;
+}
+
+
+.in {
+	padding-left: 0px;
+    padding-right: 0px
+}
+
+.on {
+	padding: 0px;
+}
+
+.p {
+	    padding-right: 0px;
+}
+
+
+.logo2 {
+	padding-left: 40px;
+}
+
+.pie {
+	padding-top: 50px;
+	padding-bottom: 20px;
+}
+
+#P {
+	text-align: right !important;
+}
+
+.icon {
+	padding-bottom: 5px;
+}
+
+.liga {
+	color: #FFFFFF !important;
+	text-decoration:none !important;
+} /*quita el subrayado de los enlaces, línea de producción musical*/
+
+.liga2 {
+	color:#828282;
+	text-decoration:none !important;
+} /*Línea 312*/
+
+.fondo {
+    background: rgba(81, 74, 25, 0.5);
+}
+		/* Pagina de guitarras*/
+
+.k {
+	padding-top: 20px;
+}
+
+.j {
+	    padding-top: 59px;
+}
+
+.i {
+	    padding-top: 103px;
+}
+
+#card {
+	width: 33rem !important;
+}
+
+.foto {
+	padding: 0px;
+
+} 
+
+.img-fluid {
+	max-width: 100% !important;
+	height: auto !important;
+	display: block;
+
+}
+
+
+.sp {
+	padding-left: 79px;
+}
+
+/*Contacto*/
+
+label {
+    display: -webkit-box;
+    margin-top: 10px;
+}
+
+.required {
+    color: red;
+    font-family: Merriweather,Georgia,serif;
+}
+
+button, input, optgroup, select, textarea {
+    margin: 9px;
+    font: inherit;
+    color: inherit;
+}
+
+form {
+  /* Centrar el formulario en la página */
+  margin: 0 auto;
+  width:100%;
+  /* Esquema del formulario */
+  padding: 1em;
+  border: 1px solid #FFC370;
+  border-radius: 1em;
+}
+
+#formulario {
+	padding-top: 20px;
+	padding-bottom: 20px;	
+}
+
+.nav > li {
+    position: relative;
+    display: block;
+    border: none;
+    /* margin: 0px !important; */
+}
+
+.navbar-collapse {
+    max-height: 340px;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+
+.nav > li > a {
+    position: relative;
+    display: block;
+    padding: 10px 24px;
+}
