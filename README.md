@@ -1,7 +1,7 @@
-#PROYECTO: KORCHEA
+# PROYECTO: KORCHEA
 Estructura de una lading page de una Tienda de música ficticia.
 
-#Tecnologias
+# Tecnologias
 HTML5
 CSS
 
